@@ -1,0 +1,1 @@
+print("Assalamu Alaikum warahmatullah wabarakatuh\nMy Name is Umar Abubakar Dachia")
